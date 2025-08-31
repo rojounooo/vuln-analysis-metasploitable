@@ -17,7 +17,6 @@ The analysis was conducted using Nmap and manual verification and exploitation
 
 ## 📂 Repository Structure
 - `scans/` – raw scanner outputs (Nmap)
-- `screenshots/` – evidence of vulnerabilities
 - `scripts/` – helper scripts
 - `references/` - CVE references
 - `REPORT.md` – full vulnerability analysis report
