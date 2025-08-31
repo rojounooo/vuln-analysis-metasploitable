@@ -8,7 +8,7 @@
     - Kali Linux - A linux distro preloaded with tools to use as an attacker
     - Metasploitable 2 - An inteionally made vulnerable VM to use as a target 
     - Nmap - To scan for open ports, services, operating system and potential CVEs
-    - Nessus Essentials - Vulnerability Scanner 
+    - Greenbone Vulnerability Management - Vulnerability Scanner 
     - ExploitDB - Database containing exploits and CVEs
 
 ## 2. Reconnaissance
@@ -24,7 +24,7 @@
 
 
 ## 3. Vulnerability Scanning
-- Nessus scan summary
+- Greenbone Vulnerability Management scan summary
 - Top critical findings (with CVEs + CVSS scores)
 
 ## 4. Manual Verification
