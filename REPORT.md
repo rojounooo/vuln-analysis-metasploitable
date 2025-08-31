@@ -22,8 +22,9 @@
     - MySQL and PostgreSQL databases
 
 ## 3. Manual Verification
-- Example: Anonymous FTP login allowed
-- Example: Outdated Apache version vulnerable to exploits
+
+- Root login achieved via rlogin 
+- Backdoor created via vsftpd on port 6200
 
 ## 4. Risk Analysis
 - Potential impact if these were in production
