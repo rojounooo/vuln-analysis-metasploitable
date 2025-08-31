@@ -13,7 +13,15 @@
 
 ## 2. Reconnaissance
 - Nmap results (summarized)
-- Observed open ports/services
+- 29 open ports detected 
+
+- Services include: 
+
+    - Multiple Apache web servers
+    - Telnet
+    - Multiple FTP Servers
+    - MySQL and PostgreSQL databases
+
 
 ## 3. Vulnerability Scanning
 - Nessus scan summary
