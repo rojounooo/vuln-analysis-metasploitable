@@ -19,6 +19,7 @@ The analysis was conducted using Nmap and manual verification and exploitation
 - `scans/` – raw scanner outputs (Nmap)
 - `scripts/` – helper scripts
 - `references/` - CVE references
+- `exploitation/` - exploitation steps
 - `REPORT.md` – full vulnerability analysis report
 
 ## ⚠️ Disclaimer
