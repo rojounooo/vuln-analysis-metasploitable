@@ -2,21 +2,21 @@
 
 ## 📌 Project Overview
 This project demonstrates a vulnerability assessment of the Metasploitable 2 virtual machine in a safe, isolated lab environment.  
-The analysis was conducted using Nmap, Greenbone Vulnerability Management, and manual verification and exploitation
+The analysis was conducted using Nmap and manual verification and exploitation
 
 ## 🔧 Tools Used
 - Nmap (service/port enumeration)
-- Greenbone Vulnerability Management (vulnerability scanning)
 - Kali Linux (attacker VM)
+- Metasploitable 2 (Target VM)
 
 ## 📝 Workflow
 1. Reconnaissance (Nmap scans)
-2. Vulnerability Scanning (GVM)
+2. Searching for CVEs using ExploitDB
 3. Manual Verification of findings
 4. Reporting (risk assessment + remediation steps)
 
 ## 📂 Repository Structure
-- `scans/` – raw scanner outputs (Nmap, GVM, etc.)
+- `scans/` – raw scanner outputs (Nmap)
 - `screenshots/` – evidence of vulnerabilities
 - `scripts/` – helper scripts
 - `references/` - CVE references
