@@ -22,23 +22,18 @@
     - Multiple FTP Servers
     - MySQL and PostgreSQL databases
 
-
-## 3. Vulnerability Scanning
-- Greenbone Vulnerability Management scan summary
-- Top critical findings (with CVEs + CVSS scores)
-
-## 4. Manual Verification
+## 3. Manual Verification
 - Example: Anonymous FTP login allowed
 - Example: Outdated Apache version vulnerable to exploits
 
-## 5. Risk Analysis
+## 4. Risk Analysis
 - Potential impact if these were in production
 - Exploitability vs. business risk
 
-## 6. Recommendations
+## 5. Recommendations
 - Patch versions
 - Disable unsafe services
 - Use least-privilege principles
 
-## 7. Conclusion
+## 6. Conclusion
 - Key takeaways from the exercise
