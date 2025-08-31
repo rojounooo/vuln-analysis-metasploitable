@@ -8,8 +8,8 @@
     - Kali Linux - A linux distro preloaded with tools to use as an attacker
     - Metasploitable 2 - An inteionally made vulnerable VM to use as a target 
     - Nmap - To scan for open ports, services, operating system and potential CVEs
-    - Greenbone Vulnerability Management - Vulnerability Scanner 
     - ExploitDB - Database containing exploits and CVEs
+    - Metasploit - Automating exploits
 
 ## 2. Reconnaissance
 - Nmap results (summarized)
@@ -17,7 +17,6 @@
 
 - Services include: 
 
-    - Multiple Apache web servers
     - Telnet
     - Multiple FTP Servers
     - MySQL and PostgreSQL databases
