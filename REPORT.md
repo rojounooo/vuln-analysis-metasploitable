@@ -25,6 +25,8 @@
 
 - Root login achieved via rlogin 
 - Backdoor created via vsftpd on port 6200
+- Reverse shell created via distcc to connect to Kali port 4444 
+- Exfiltration of files via unrealIRC 
 
 ## 4. Risk Analysis
 - Potential impact if these were in production
