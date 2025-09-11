@@ -7,7 +7,7 @@ The analysis was conducted using Nmap, manual/automated verification and exploit
 ## 🔧 Tools Used
 - Nmap (service/port enumeration)
 - Metasploit Framework (automated exploitation)
-- Kali Linux (attacker VM)
+- Kali Linux (Attacker VM)
 - Metasploitable 2 (Target VM)
 
 ## 📝 Workflow
